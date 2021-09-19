@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="hint_enter_amount">Введите сумму</string>
+    <string name="button_convert">Расчитать</string>
+    <string name="char_code_currency">RUB</string>
+    <string name="currency_name">currency_name</string>
+    <string name="choose_currency">Выберите валюту</string>
+    <string name="currency_rate">Текущий курс:</string>
+    <string name="one_to_rate">1 к</string>
+    <string name="rate">rate</string>
+    <string name="rubles">Рубли</string>
+</resources>
